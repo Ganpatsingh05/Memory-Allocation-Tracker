@@ -1,4 +1,4 @@
-# Memory Allocation Visualizer
+# Memory Allocation Tracker (Visualizer)
 
 ## Overview
 Memory Allocation Visualizer is an interactive educational tool designed to help students and developers understand memory allocation strategies, specifically paging and segmentation techniques. The application provides a visual representation of how memory is allocated and managed in computer systems.
