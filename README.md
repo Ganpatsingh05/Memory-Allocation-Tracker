@@ -71,6 +71,7 @@ python main.py
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - info.pravin750@example.com
-
-Project Link: [https://github.com/PravinChoudhary11/memory-allocation-tracker](https://github.com/PravinChoudhary11/memory-allocation-tracker)
+# Name Of Teammates
+1)Ganpat Singh
+2)Prapati Chenna Kesava Rao
+3)Anvesh Reddy
