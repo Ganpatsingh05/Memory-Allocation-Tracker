@@ -1,7 +1,7 @@
 # Memory Allocation Tracker (Visualizer)
 
 ## Overview
-Memory Allocation Visualizer is an interactive educational tool designed to help students and developers understand memory allocation strategies, specifically paging and segmentation techniques. The application provides a visual representation of how memory is allocated and managed in computer systems.
+Memory Allocation Tracker/Visualizer is an interactive educational tool designed to help students and developers understand memory allocation strategies, specifically paging and segmentation techniques. The application provides a visual representation of how memory is allocated and managed in computer systems.
 
 ## Features
 - Interactive GUI for memory allocation simulation
@@ -15,7 +15,9 @@ Memory Allocation Visualizer is an interactive educational tool designed to help
 - Configurable memory and page sizes
 
 ## Screenshots
-[Placeholder for screenshots]
+
+
+
 
 ## Prerequisites
 - Python 3.8+
@@ -71,7 +73,7 @@ python main.py
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-# Name Of Teammates
+### Name Of The Teammates
 1)Ganpat Singh
 2)Prapati Chenna Kesava Rao
 3)Anvesh Reddy
