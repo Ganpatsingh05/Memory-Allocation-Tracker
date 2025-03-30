@@ -1,0 +1,15 @@
+real-time-memory-allocation-tracker/
+  │
+  ├── docs/
+  │     └── readme.md
+  │
+  ├── src/
+  │     ├── main.py
+  │     ├── gui.py
+  │     ├── memory_allocation_engine.py
+  │     └── visualization.py
+  │
+  ├── file_arrangement.txt
+  │
+  └── requirements.txt
+
